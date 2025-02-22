@@ -1,2 +1,2 @@
 # Data_Analytics
-Estructura de archivos para análisis de datos
+Estructura de carpetas para proyecto de análisis de datos
